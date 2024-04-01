@@ -57,6 +57,10 @@ h2 {
   padding: 10px;
   border-radius: 10px;
   width: 200px;
+  justify-content: center;
+}
+.box h2{
+  text-align: center;
 }
 .item{
  background: #928cff; 
